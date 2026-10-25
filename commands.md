@@ -1,4 +1,4 @@
-# Terminal Record: [Seabreeze Inn]
+# Terminal Record: Seabreeze Inn
 
 
 
@@ -20,6 +20,7 @@ mkdir tests
 touch tests/__init__.py tests/test_business_rules.py
 git remote add origin git@github.com:SimoMenchini/ism3232-midterm.git
 git branch -M main
+```
 
 
 
