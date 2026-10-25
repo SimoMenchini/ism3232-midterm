@@ -104,6 +104,9 @@ main.py is the only Python file that prints, business_rules.py is not in the lis
 
 ## 6.The commit history
 
-4e7573f (HEAD -> main, origin/main) ism3232-midterm: Seabreeze Inn
+e3e9243 (HEAD -> main, origin/main) ism3232-midterm: README.md, EXTRA Commitment, I did not commit each part separately because it was said in part 7 and by then I had already submitted everything together except for commands.md and README.md
+9c620e3 ism3232-midterm: command.md and README.md
+3e13879 ism3232-midterm: command.md
+4e7573f ism3232-midterm: Seabreeze Inn
 
-There was 1 commitment at that point
+There was 4 commitment at that point
