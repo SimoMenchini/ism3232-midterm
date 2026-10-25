@@ -35,13 +35,13 @@ I wrote 23 automated unit tests covering all eight business functions, boundary 
 
 ## Files in This Repository
 
-.gitignore : Configures Git to ignore the virtual environment directory and Python bytecode cache folders.
-README.md : Documents project specifications, operational instructions, testing steps, file contents, and course disclosures.
-business_rules.py : Contains defined business constants and calculation functions for room rates, discounts, fees, and aggregates.
-commands.md : Records terminal output verifying project construction, virtual environment activation, tree structure, search results, and Git commits.
-main.py : Imports business calculation functions, processes the dataset of stays, and prints the terminal report.
-requirements.txt : Records the specific virtual environment dependencies including pytest and ruff.
-tests/__init__.py : Marks the test directory as an importable Python package.
+.gitignore: Configures Git to ignore the virtual environment directory and Python bytecode cache folders.
+README.md: Documents project specifications, operational instructions, testing steps, file contents, and course disclosures.
+business_rules.py: Contains defined business constants and calculation functions for room rates, discounts, fees, and aggregates.
+commands.md: Records terminal output verifying project construction, virtual environment activation, tree structure, search results, and Git commits.
+main.py: Imports business calculation functions, processes the dataset of stays, and prints the terminal report.
+requirements.txt: Records the specific virtual environment dependencies including pytest and ruff.
+tests/__init__.py: Marks the test directory as an importable Python package.
 tests/test_business_rules.py : Contains the unit test suite verifying function outputs against expected rules and boundary limits.
 
 ## AI Use Statement
